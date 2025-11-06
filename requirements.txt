@@ -6,3 +6,6 @@ nltk
 transformers
 torch
 matplotlib
+sentencepiece
+protobuf
+
